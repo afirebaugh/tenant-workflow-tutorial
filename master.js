@@ -1,0 +1,3 @@
+function onclickButton(id) {
+    id.
+}
